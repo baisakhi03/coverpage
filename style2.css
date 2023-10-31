@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+h6{
+    color: rgb(241, 241, 241);
+}
+ul{
+background-color: aquamarine;
+border: 2px solid orangered;
+}
+div{
+  color: orangered;
+}
+h5{
+    color: aliceblue;
+}
+h6{
+    text-transform: uppercase;
+}
+.a{
+    display: inline block;
+}
+.b{
+    display: inline block;
+}
+.c{
+    border-bottom: 2px solid orangered;
+    border-right: 2px solid orangered;
+   border-width: 2px;
+
+
+
+}
